@@ -8,9 +8,9 @@
 
 | 作品 | 核心内容 | 正式演示 | 项目仓库 |
 | --- | --- | --- | --- |
-| 商城增长 V3.7 · Mall Growth Analytics | 电商经营分析、交易漏斗、RFM / K-means、商品 ABC、触点归因与实验评估 | [打开交互看板](https://kaiwenzhang1023-oss.github.io/mall-growth-analytics/) | [mall-growth-analytics](https://github.com/kaiwenzhang1023-oss/mall-growth-analytics) |
-| MotoRec Lab | 社区推荐体验、兴趣画像与生命周期、Python 离线策略实验及可解释性诊断 | [打开推荐实验室](https://motorec-lab.onrender.com/) | [motorec-lab（私有）](https://github.com/kaiwenzhang1023-oss/motorec-lab) |
-| Industrial AI PaaS Lab · RC3.6 | MRP 物料计划、供需追溯、情景模拟、人工审批、受控执行与审计协同 | [打开 Workbench](https://industrial-ai-paas-v19b-rc36-isolated.onrender.com/workbench/) | [industrial-ai-paas-lab-demo](https://github.com/kaiwenzhang1023-oss/industrial-ai-paas-lab-demo/tree/v19b-rc36-isolated-render-candidate-20261106) |
+| Mall Growth Analytics | 电商经营与增长分析 | [打开交互看板](https://kaiwenzhang1023-oss.github.io/mall-growth-analytics/) | [mall-growth-analytics](https://github.com/kaiwenzhang1023-oss/mall-growth-analytics) |
+| MotoRec Lab | 推荐策略实验与离线评估 | [打开推荐实验室](https://motorec-lab.onrender.com/) | [motorec-lab（私有）](https://github.com/kaiwenzhang1023-oss/motorec-lab) |
+| Industrial AI PaaS Lab | 工业 AI 业务编排与受控执行 | [打开 Workbench](https://industrial-ai-paas-v19b-rc36-isolated.onrender.com/workbench/) | [industrial-ai-paas-lab-demo](https://github.com/kaiwenzhang1023-oss/industrial-ai-paas-lab-demo/tree/v19b-rc36-isolated-render-candidate-20261106) |
 
 ## 关于演示
 
